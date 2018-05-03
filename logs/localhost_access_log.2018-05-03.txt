@@ -1,0 +1,14 @@
+192.168.73.1 - - [03/May/2018:06:55:23 +0000] "GET / HTTP/1.1" 200 11250
+192.168.73.1 - - [03/May/2018:06:55:24 +0000] "GET /favicon.ico HTTP/1.1" 200 21630
+192.168.73.1 - - [03/May/2018:06:55:27 +0000] "GET /manager/html HTTP/1.1" 403 3420
+192.168.73.1 - - [03/May/2018:07:15:32 +0000] "GET /manager/html HTTP/1.1" 403 3420
+192.168.73.1 - - [03/May/2018:07:19:48 +0000] "GET /manager/html HTTP/1.1" 403 3420
+192.168.73.1 - - [03/May/2018:07:31:53 +0000] "GET / HTTP/1.1" 200 11250
+192.168.73.1 - - [03/May/2018:07:31:53 +0000] "GET /favicon.ico HTTP/1.1" 200 21630
+192.168.73.1 - - [03/May/2018:07:31:53 +0000] "GET / HTTP/1.1" 200 11250
+192.168.73.1 - - [03/May/2018:07:31:53 +0000] "GET /favicon.ico HTTP/1.1" 200 21630
+192.168.73.1 - - [03/May/2018:07:31:56 +0000] "GET /manager/html HTTP/1.1" 401 2473
+192.168.73.1 - admin [03/May/2018:07:31:58 +0000] "GET /manager/html HTTP/1.1" 200 15576
+192.168.73.1 - - [03/May/2018:07:31:58 +0000] "GET /manager/images/tomcat.gif HTTP/1.1" 200 2066
+192.168.73.1 - - [03/May/2018:07:31:58 +0000] "GET /manager/images/asf-logo.svg HTTP/1.1" 200 20486
+192.168.73.1 - admin [03/May/2018:07:40:02 +0000] "POST /manager/html/reload?path=/docs&org.apache.catalina.filters.CSRF_NONCE=CD8E596A016E0A95176D3E7287ED2167 HTTP/1.1" 200 15628

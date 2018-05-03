@@ -1,0 +1,7 @@
+02-May-2018 14:47:58.441 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+02-May-2018 14:47:58.446 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+02-May-2018 14:47:58.465 INFO [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+02-May-2018 14:48:11.054 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log HTMLManager: undeploy: Undeploying web application at '/examples'
+02-May-2018 14:48:11.619 INFO [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+02-May-2018 14:48:27.676 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log HTMLManager: restart: Reloading web application '/docs'
+02-May-2018 14:48:27.756 INFO [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
